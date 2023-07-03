@@ -1,0 +1,27 @@
+{
+  "Journey": {
+    "Origin": "MZL",
+    "Destination": "BCN",
+    "Price": 2000.0,
+    "Flights": [
+      {
+        "Origin": "MZL",
+        "Destination": "JFK",
+        "Price": 1000.0,
+        "Transport": {
+          "FlightCarrier": "AV",
+          "FlightNumber": "8020"
+        }
+      },
+      {
+        "Origin": "JFK",
+        "Destination": "BCN",
+        "Price": 1000.0,
+        "Transport": {
+          "FlightCarrier": "AV",
+          "FlightNumber": "8040"
+        }
+      }
+    ]
+  }
+}
